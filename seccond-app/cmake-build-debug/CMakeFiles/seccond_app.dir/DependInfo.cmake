@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/seccond-app/main.cpp" "/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/seccond-app/cmake-build-debug/CMakeFiles/seccond_app.dir/main.cpp.o"
+  "/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/seccond-app/main.cpp" "/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/seccond-app/cmake-build-debug/CMakeFiles/seccond_app.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

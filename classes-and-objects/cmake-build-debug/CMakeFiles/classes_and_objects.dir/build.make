@@ -43,10 +43,10 @@ RM = /home/muzikayise/apps/CLion-2019.2.1/clion-2019.2.1/bin/cmake/linux/bin/cma
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects
+CMAKE_SOURCE_DIR = /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug
+CMAKE_BINARY_DIR = /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/classes_and_objects.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/classes_and_objects.dir/flags.make
 
 CMakeFiles/classes_and_objects.dir/main.cpp.o: CMakeFiles/classes_and_objects.dir/flags.make
 CMakeFiles/classes_and_objects.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/classes_and_objects.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/classes_and_objects.dir/main.cpp.o -c /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/classes_and_objects.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/classes_and_objects.dir/main.cpp.o -c /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/main.cpp
 
 CMakeFiles/classes_and_objects.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/classes_and_objects.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/main.cpp > CMakeFiles/classes_and_objects.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/main.cpp > CMakeFiles/classes_and_objects.dir/main.cpp.i
 
 CMakeFiles/classes_and_objects.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/classes_and_objects.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/main.cpp -o CMakeFiles/classes_and_objects.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/main.cpp -o CMakeFiles/classes_and_objects.dir/main.cpp.s
 
 CMakeFiles/classes_and_objects.dir/Person.cpp.o: CMakeFiles/classes_and_objects.dir/flags.make
 CMakeFiles/classes_and_objects.dir/Person.cpp.o: ../Person.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/classes_and_objects.dir/Person.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/classes_and_objects.dir/Person.cpp.o -c /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/Person.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/classes_and_objects.dir/Person.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/classes_and_objects.dir/Person.cpp.o -c /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/Person.cpp
 
 CMakeFiles/classes_and_objects.dir/Person.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/classes_and_objects.dir/Person.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/Person.cpp > CMakeFiles/classes_and_objects.dir/Person.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/Person.cpp > CMakeFiles/classes_and_objects.dir/Person.cpp.i
 
 CMakeFiles/classes_and_objects.dir/Person.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/classes_and_objects.dir/Person.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/Person.cpp -o CMakeFiles/classes_and_objects.dir/Person.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/Person.cpp -o CMakeFiles/classes_and_objects.dir/Person.cpp.s
 
 CMakeFiles/classes_and_objects.dir/Tweeter.cpp.o: CMakeFiles/classes_and_objects.dir/flags.make
 CMakeFiles/classes_and_objects.dir/Tweeter.cpp.o: ../Tweeter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/classes_and_objects.dir/Tweeter.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/classes_and_objects.dir/Tweeter.cpp.o -c /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/Tweeter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/classes_and_objects.dir/Tweeter.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/classes_and_objects.dir/Tweeter.cpp.o -c /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/Tweeter.cpp
 
 CMakeFiles/classes_and_objects.dir/Tweeter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/classes_and_objects.dir/Tweeter.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/Tweeter.cpp > CMakeFiles/classes_and_objects.dir/Tweeter.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/Tweeter.cpp > CMakeFiles/classes_and_objects.dir/Tweeter.cpp.i
 
 CMakeFiles/classes_and_objects.dir/Tweeter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/classes_and_objects.dir/Tweeter.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/Tweeter.cpp -o CMakeFiles/classes_and_objects.dir/Tweeter.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/Tweeter.cpp -o CMakeFiles/classes_and_objects.dir/Tweeter.cpp.s
 
 # Object files for target classes_and_objects
 classes_and_objects_OBJECTS = \
@@ -110,7 +110,7 @@ classes_and_objects: CMakeFiles/classes_and_objects.dir/Person.cpp.o
 classes_and_objects: CMakeFiles/classes_and_objects.dir/Tweeter.cpp.o
 classes_and_objects: CMakeFiles/classes_and_objects.dir/build.make
 classes_and_objects: CMakeFiles/classes_and_objects.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable classes_and_objects"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable classes_and_objects"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/classes_and_objects.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -123,6 +123,6 @@ CMakeFiles/classes_and_objects.dir/clean:
 .PHONY : CMakeFiles/classes_and_objects.dir/clean
 
 CMakeFiles/classes_and_objects.dir/depend:
-	cd /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/CMakeFiles/classes_and_objects.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug /home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/CMakeFiles/classes_and_objects.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/classes_and_objects.dir/depend
 

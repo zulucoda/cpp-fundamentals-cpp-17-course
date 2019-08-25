@@ -1,5 +1,8 @@
+#pragma once
+
 #include <iostream>
 #include "header-files/Tweeter.h"
+#include "header-files/status.h"
 
 using std::cout;
 using std::endl;
@@ -17,5 +20,15 @@ int main() {
 
     cout << "Person 1: " << p1.getName() << endl;
     cout << "Person 2: " << p2.getName() << endl;
+
+    Status s = Pending;
+    s = Approved;
+
+    FileError fe = FileError::notFound;
+    fe = FileError::ok;
+
+    NetworkError ne = NetworkError::disconnected;
+    ne = NetworkError::ok;
+
     return 0;
 }

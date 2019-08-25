@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug"/>
+				<Option working_dir="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug"/>
+				<Option working_dir="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="classes_and_objects">
-				<Option output="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/classes_and_objects" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug"/>
+				<Option output="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/classes_and_objects" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 classes_and_objects"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 classes_and_objects"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="classes_and_objects/fast">
-				<Option output="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/classes_and_objects" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug"/>
+				<Option output="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/classes_and_objects" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,39 +67,42 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 classes_and_objects/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 classes_and_objects/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug"/>
+				<Option working_dir="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/Person.cpp">
+		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/Person.cpp">
 			<Option target="classes_and_objects"/>
 		</Unit>
-		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/Tweeter.cpp">
+		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/Tweeter.cpp">
 			<Option target="classes_and_objects"/>
 		</Unit>
-		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/header-files/Person.h">
+		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/header-files/Person.h">
 			<Option target="classes_and_objects"/>
 		</Unit>
-		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/header-files/Tweeter.h">
+		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/header-files/Tweeter.h">
 			<Option target="classes_and_objects"/>
 		</Unit>
-		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/main.cpp">
+		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/header-files/status.h">
 			<Option target="classes_and_objects"/>
 		</Unit>
-		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp/cpp-fundamentals-cpp-17-course/classes-and-objects/CMakeLists.txt">
+		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/main.cpp">
+			<Option target="classes_and_objects"/>
+		</Unit>
+		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

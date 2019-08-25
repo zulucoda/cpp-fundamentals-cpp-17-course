@@ -10,5 +10,6 @@ CMakeFiles/classes_and_objects.dir/Tweeter.cpp.o: ../header-files/Tweeter.h
 
 CMakeFiles/classes_and_objects.dir/main.cpp.o: ../header-files/Person.h
 CMakeFiles/classes_and_objects.dir/main.cpp.o: ../header-files/Tweeter.h
+CMakeFiles/classes_and_objects.dir/main.cpp.o: ../header-files/status.h
 CMakeFiles/classes_and_objects.dir/main.cpp.o: ../main.cpp
 

@@ -1,7 +1,7 @@
 //
 // Created by muzikayise on 2019/08/24.
 //
-
+#pragma once
 #include <string>
 
 

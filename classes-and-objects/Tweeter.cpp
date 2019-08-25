@@ -1,7 +1,7 @@
 //
 // Created by muzikayise on 2019/08/25.
 //
-
+#pragma once
 #include "header-files/Tweeter.h"
 #include <iostream>
 
