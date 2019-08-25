@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/seccond_app.dir/main.cpp.o  -o seccond_app 

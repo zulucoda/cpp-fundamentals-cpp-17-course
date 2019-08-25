@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/classes_and_objects.dir/main.cpp.o CMakeFiles/classes_and_objects.dir/Person.cpp.o CMakeFiles/classes_and_objects.dir/Tweeter.cpp.o  -o classes_and_objects 
