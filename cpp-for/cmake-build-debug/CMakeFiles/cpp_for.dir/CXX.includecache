@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/cpp-for/main.cpp
+iostream
+-
+
