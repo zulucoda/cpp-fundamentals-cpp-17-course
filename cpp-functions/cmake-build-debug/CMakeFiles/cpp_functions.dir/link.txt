@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cpp_functions.dir/main.cpp.o CMakeFiles/cpp_functions.dir/utility.cpp.o  -o cpp_functions 
