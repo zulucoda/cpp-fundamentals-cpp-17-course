@@ -17,5 +17,7 @@ public:
     Person(std::string first, std::string last, int arbitrary);
     Person();
     ~Person();
-    std::string getName();
+    std::string GetName() const;
+    int GetNumber() const { return arbitrarynumber; }
+    void SetNumber(int number) { arbitrarynumber = number; }
 };

@@ -5,7 +5,7 @@
 #include "header-files/Person.h"
 #include <iostream>
 
-std::string Person::getName()
+std::string Person::GetName() const
 {
     return firstname + " " + lastname;
 }
@@ -16,17 +16,17 @@ firstname(first),
 lastname(last),
 arbitrarynumber(arbitrary)
 {
-    std::cout << "constructing" << firstname << " " << lastname << std::endl;
+    std::cout << "constructing" << GetName() << std::endl;
 }
 
 Person::Person()
         :
         arbitrarynumber(0)
 {
-    std::cout << "constructing" << firstname << " " << lastname << std::endl;
+    std::cout << "constructing" << GetName() << std::endl;
 }
 
 Person::~Person()
 {
-    std::cout << "destructing" << firstname << " " << lastname << std::endl;
+    std::cout << "destructing" << GetName() << std::endl;
 }
