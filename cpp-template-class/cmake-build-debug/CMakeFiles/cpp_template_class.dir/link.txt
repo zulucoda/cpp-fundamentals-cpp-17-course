@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cpp_template_class.dir/main.cpp.o CMakeFiles/cpp_template_class.dir/Person.cpp.o  -o cpp_template_class 
