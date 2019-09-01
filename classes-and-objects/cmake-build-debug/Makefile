@@ -123,6 +123,33 @@ classes_and_objects/fast:
 	$(MAKE) -f CMakeFiles/classes_and_objects.dir/build.make CMakeFiles/classes_and_objects.dir/build
 .PHONY : classes_and_objects/fast
 
+BankAccount.o: BankAccount.cpp.o
+
+.PHONY : BankAccount.o
+
+# target to build an object file
+BankAccount.cpp.o:
+	$(MAKE) -f CMakeFiles/classes_and_objects.dir/build.make CMakeFiles/classes_and_objects.dir/BankAccount.cpp.o
+.PHONY : BankAccount.cpp.o
+
+BankAccount.i: BankAccount.cpp.i
+
+.PHONY : BankAccount.i
+
+# target to preprocess a source file
+BankAccount.cpp.i:
+	$(MAKE) -f CMakeFiles/classes_and_objects.dir/build.make CMakeFiles/classes_and_objects.dir/BankAccount.cpp.i
+.PHONY : BankAccount.cpp.i
+
+BankAccount.s: BankAccount.cpp.s
+
+.PHONY : BankAccount.s
+
+# target to generate assembly for a file
+BankAccount.cpp.s:
+	$(MAKE) -f CMakeFiles/classes_and_objects.dir/build.make CMakeFiles/classes_and_objects.dir/BankAccount.cpp.s
+.PHONY : BankAccount.cpp.s
+
 Person.o: Person.cpp.o
 
 .PHONY : Person.o
@@ -213,6 +240,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... classes_and_objects"
 	@echo "... edit_cache"
+	@echo "... BankAccount.o"
+	@echo "... BankAccount.i"
+	@echo "... BankAccount.s"
 	@echo "... Person.o"
 	@echo "... Person.i"
 	@echo "... Person.s"

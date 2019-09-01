@@ -84,10 +84,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/BankAccount.cpp">
+			<Option target="classes_and_objects"/>
+		</Unit>
 		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/Person.cpp">
 			<Option target="classes_and_objects"/>
 		</Unit>
 		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/Tweeter.cpp">
+			<Option target="classes_and_objects"/>
+		</Unit>
+		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/header-files/BankAccount.h">
 			<Option target="classes_and_objects"/>
 		</Unit>
 		<Unit filename="/home/muzikayise/workspace/Dev/Z/zulu-coda/practice/cpp-fundamentals-cpp-17-course/classes-and-objects/header-files/Person.h">
