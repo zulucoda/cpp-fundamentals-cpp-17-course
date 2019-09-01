@@ -31,5 +31,21 @@ int main() {
     NetworkError ne = NetworkError::disconnected;
     ne = NetworkError::ok;
 
+    cout << "p1 is ";
+    if(!(p1 < p2))
+        cout << "not ";
+    cout << "less than p2" << endl;
+
+    cout << "p1 is ";
+    if (!(p1 < 300))
+        cout << "not ";
+    cout << "less than 300" << endl;
+
+    cout << "300 is ";
+    if (!(300 < p1))
+        cout << "not ";
+    cout << "less than p1" << endl;
+
+
     return 0;
 }
